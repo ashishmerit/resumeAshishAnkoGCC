@@ -6,7 +6,7 @@ Final-year Computer Science & Engineering (AI & ML) student at VIT Bhopal Univer
 
 ## Resume
 
-📄 **[View Resume](./resumeAshishAnkoGcc.pdf)**
+📄 **[View Resume](./AshishRanjanResumeDataScience.pdf)**
 
 ## Technical Skills
 
